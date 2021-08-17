@@ -17,16 +17,19 @@ His research interets include image quality assessment, 3D visual quality assess
 ### Previous Works
 
 1. **A No-Reference Evaluation Metric for Low-Light Image Enhancement** 
+
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Wenhan Zhu, Tao Wang, Wei Lu, Guangtao Zhai
    
    [[Paper]](https://ieeexplore.ieee.org/document/9428312)[[Code]](https://github.com/zzc-1998/NLIEE)
    
 2. **A No-Reference Visual Quality Metric For 3D Color Meshes**
+
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Wenhan Zhu, Guangtao Zhai
    
    [[Paper]](https://ieeexplore.ieee.org/document/9455963)[[Code]](https://github.com/zzc-1998/NR-QA-for-mesh)
 
 3. **No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models**
+
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
    
    [[Paper]](https://arxiv.org/abs/2107.02041)[[Code]](https://github.com/zzc-1998/NR-3DQA)
