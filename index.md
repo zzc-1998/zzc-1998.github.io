@@ -3,7 +3,7 @@
 ### About Me
 <img align="right" src="https://raw.githubusercontent.com/zzc-1998/zzc-1998.github.io/main/zhang.jpg">
 
-Zicheng Zhang reveiced his B.E. degree from Shanghai Jiaotong University, Shanghai, China, in 2020 and he is currently studying at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University as a graduate student.
+**Zicheng Zhang** reveiced his B.E. degree from Shanghai Jiaotong University, Shanghai, China, in 2020 and he is currently studying at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University as a graduate student.
 His research interets include image quality assessment, 3D visual quality assessment. 
 
 **Current Institute** Institute of Image Communication and Network Engineering,
@@ -12,35 +12,18 @@ His research interets include image quality assessment, 3D visual quality assess
                       
 **Address** 5-116 SEIEE Building, 800 Dong Chuan Rd, Shanghai 200240, China
 
+**E-mail** zzc1998@sjtu.edu.cn
 
 ### Previous Works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. **A No-Reference Evaluation Metric for Low-Light Image Enhancement** 
+   **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Wenhan Zhu, Tao Wang, Wei Lu, Guangtao Zhai
+   [Paper](https://ieeexplore.ieee.org/document/9428312)[Code](https://github.com/zzc-1998/NLIEE)
+   
+2. **A No-Reference Visual Quality Metric For 3D Color Meshes**
+   **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Wenhan Zhu, Guangtao Zhai
+   [Paper](https://ieeexplore.ieee.org/document/9455963)[Code](https://github.com/zzc-1998/NR-QA-for-mesh)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zzc-1998/zzc-1998.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. **No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models**
+   **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
+   [Paper](https://arxiv.org/abs/2107.02041)[Code](https://github.com/zzc-1998/NR-3DQA)
