@@ -28,4 +28,5 @@ His research interets include image quality assessment, 3D visual quality assess
 
 3. **No-Reference Quality Assessment for 3D Colored Point Cloud and Mesh Models**
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
+   
    [[Paper]](https://arxiv.org/abs/2107.02041)[[Code]](https://github.com/zzc-1998/NR-3DQA)
