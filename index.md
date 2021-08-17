@@ -1,5 +1,5 @@
 
-### Welcome to Zicheng Zhang's Homepage
+
 ### About Me
 <img align="right" src="https://raw.githubusercontent.com/zzc-1998/zzc-1998.github.io/main/zhang.jpg">
 
