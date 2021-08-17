@@ -1,11 +1,10 @@
   ## Welcome to Zicheng Zhang's Homepage
 ![Image text](https://raw.githubusercontent.com/zzc-1998/zzc-1998.github.io/main/zhang.jpg)
 
-You can use the [editor on GitHub](https://github.com/zzc-1998/zzc-1998.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Zicheng Zhang reveiced his B.E. degree from Shanghai Jiaotong University, Shanghai, China, in 2020 and he is currently studying at the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University as a graduate student.
+His research interets include image quality assessment, 3D visual quality assessment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Previous Works
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
