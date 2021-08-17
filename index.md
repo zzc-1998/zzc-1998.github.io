@@ -1,5 +1,5 @@
   ## Welcome to Zicheng Zhang's Homepage
-![Image text](https://raw.githubusercontent.com/zzc-1998/zzc-1998.github.io/blob/main/zhang.jpg)
+![Image text](https://github.com/zzc-1998/zzc-1998.github.io/blob/main/zhang.jpg)
 
 You can use the [editor on GitHub](https://github.com/zzc-1998/zzc-1998.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
