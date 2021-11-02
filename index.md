@@ -16,8 +16,7 @@ His research interets include image quality assessment, 3D visual quality assess
 
 ### Previous Works
 
-1. ***A No-Reference Evaluation Metric for Low-Light Image Enhancement***, 
-   *IEEE International Conference on Multimedia and Expo (ICME) 2021*,
+1. ***A No-Reference Evaluation Metric for Low-Light Image Enhancement***, *IEEE International Conference on Multimedia and Expo (ICME) 2021*,
 
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Wenhan Zhu, Tao Wang, Wei Lu, Guangtao Zhai
    
