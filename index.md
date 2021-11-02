@@ -22,7 +22,7 @@ His research interets include image quality assessment, 3D visual quality assess
    
    [[Paper]](https://ieeexplore.ieee.org/document/9428312)[[Code]](https://github.com/zzc-1998/NLIEE)
    
-2. ***A No-Reference Visual Quality Metric For 3D Color Meshes***
+2. ***A No-Reference Visual Quality Metric For 3D Color Meshes***, *IEEE International Conference on Multimedia and Expo (ICME) Workshop 2021*
 
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Wenhan Zhu, Guangtao Zhai
    
@@ -33,3 +33,15 @@ His research interets include image quality assessment, 3D visual quality assess
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
    
    [[Paper]](https://arxiv.org/abs/2107.02041)[[Code]](https://github.com/zzc-1998/NR-3DQA)
+   
+4. ***A Full-Reference Quality Assessment Metric for Fine-Grained Compressed Images***, *2021 IEEE Visual Communications and Image Processing (VCIP) Conference*
+
+   **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
+   
+   [[Paper]]()[[Code]]()
+
+5. ***A Multi-dimensional Aesthetic Quality Assessment Model for Mobile Game Images***, *2021 IEEE Visual Communications and Image Processing (VCIP) Conference*
+
+   Tao Wang, Wei Sun, Xiongkuo Min, Wei Lu, **Zicheng Zhang**, Guangtao Zhai
+   
+   [[Paper]]()[[Code]]()
