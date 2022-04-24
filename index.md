@@ -38,10 +38,10 @@ His research interets include image quality assessment, 3D visual quality assess
 
    **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
    
-   [[Paper]]()[[Code]]()
+   [[Paper]](https://ieeexplore.ieee.org/document/9675389)[[Code]](https://github.com/zzc-1998/FGCQA)
 
 5. ***A Multi-dimensional Aesthetic Quality Assessment Model for Mobile Game Images***, *2021 IEEE Visual Communications and Image Processing (VCIP) Conference*
 
    Tao Wang, Wei Sun, Xiongkuo Min, Wei Lu, **Zicheng Zhang**, Guangtao Zhai
    
-   [[Paper]]()[[Code]]()
+   [[Paper]](https://ieeexplore.ieee.org/document/9675430)
