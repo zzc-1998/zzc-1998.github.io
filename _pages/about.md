@@ -10,5 +10,104 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version [AcadHomepage ![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io?style=social)](https://github.com/RayeRen/acad-homepage.github.io).
+-I am currently a PhD Candidate at Shanghai Jiao Tong University. My interests cover quality assessment and low-level vision.
+-I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)
+
+# 🔥 News
+- *2024.01*: &nbsp;⚡⚡ Q-Bench get accepted by ICLR2024 as a Spotlight paper!
+- *2023.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge*
+- *2022.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Grand Challenge: Video Distortion Detection and Classification in the Context of Video Surveillance*
+
+
+## Selected Publications
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Spotlight)</div><img src='https://github.com/Q-Future/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision [**Paper**](https://arxiv.org/abs/2309.14181) [**Repo**](https://github.com/Q-Future/Q-Bench)
+- Haoning Wu*, **Zicheng Zhang***, Erli Zhang*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBC</div><img src='https://github.com/zzc-1998/MM-PCQA/blob/main/pics/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment [**Paper**](https://www.ijcai.org/proceedings/2023/0195.pdf) [**Repo**](https://github.com/zzc-1998/MM-PCQA)
+- **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Quan Zhou, Jun He, Qiyuan Wang, Guangtao Zhai
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='https://github.com/zzc-1998/NR-3DQA/blob/main/framework.jpg?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+No-reference quality assessment for 3d colored point cloud and mesh models [**Paper**](https://arxiv.org/pdf/2107.02041.pdf) [**Repo**](https://github.com/zzc-1998/NR-3DQA)
+- **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMM</div><img src='https://github.com/zzc-1998/VQA_PC/blob/main/video.gif?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Evaluating Point Cloud from Moving Camera Videos: A No-Reference Metric [**Paper**](https://arxiv.org/abs/2208.14085) [**Repo**](https://github.com/zzc-1998/VQA_PC)
+- **Zicheng Zhang**, Wei Sun, Yucheng Zhu, Xiongkuo Min, Wei Wu, Ying Chen, Guangtao Zhai
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM</div><img src='https://github.com/zzc-1998/CGIQA6K/raw/main/overview.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images [**Paper**](https://arxiv.org/abs/2303.08050) [**Repo**](https://github.com/zzc-1998/CGIQA6K)
+- **Zicheng Zhang**, Wei Sun, Yingjie Zhou, Jun Jia, Zhichao Zhang, Jing Liu, Xiongkuo Min, Guangtao Zhai
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM</div><img src='https://github.com/zzc-1998/GMS-3DQA/blob/main/gms-3dqa.jpg?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment [**Paper**](https://arxiv.org/abs/2306.05658) [**Repo**](https://github.com/zzc-1998/GMS-3DQA)
+- **Zicheng Zhang**, Wei Sun, Houning Wu, Yingjie Zhou, Chunyi Li, Xiongkuo Min, Guangtao Zhai, Weisi Lin
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='https://github.com/zzc-1998/MD-VQA/blob/main/md-vqa.jpg?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_MD-VQA_Multi-Dimensional_Quality_Assessment_for_UGC_Live_Videos_CVPR_2023_paper.pdf) [**Repo**](https://github.com/zzc-1998/MD-VQA)
+- **Zicheng Zhang**, Wei Wu, Wei Sun, Dangyang Tu, Wei Lu, Xiongkuo Min, Ying Chen, Guangtao Zhai
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBC</div><img src='https://github.com/zzc-1998/zzc-1998.github.io/blob/main/images/6gdgqa.jpg?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments [**Paper**](https://ieeexplore.ieee.org/abstract/document/10381636/) 
+- **Zicheng Zhang**, Yingjie Zhou, Long Teng, Wei Sun, Chunyi Li, Xiongkuo Min, Xiao-Ping Zhang, Guangtao Zhai
+
+</div>
+</div>
+
+
+# 📖 Educations
+
+
+- *2020.09 - Now*, PhD Student, [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/), Shanghai Jiao Tong University, supervised by [Prof. Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ&hl=en). Research topics: Quality Assessment and Low-level Vision.
+- *2016.09 - 2020.06*, B.S. in Information Science, SEIEE, Shanghai Jiao Tong University. 
+
+
+
+# 💻 Internships
+- *2021.06 - 2021.09*, Bilibili, Shanghai, China.
+- *2020.09 - 2021.03*, Huawei, Shanghai, China.
 
