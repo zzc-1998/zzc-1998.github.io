@@ -26,7 +26,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision [**Paper**](https://arxiv.org/abs/2309.14181) [**Repo**](https://github.com/Q-Future/Q-Bench)
-- Haoning Wu*, **Zicheng Zhang***, Erli Zhang*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
+- Haoning Wu*, Zicheng Zhang*, Erli Zhang*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
 
 </div>
 </div>
@@ -34,7 +34,7 @@ Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision [
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TBC</div><img src='https://github.com/zzc-1998/MM-PCQA/blob/main/pics/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='https://github.com/zzc-1998/MM-PCQA/blob/main/pics/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment [**Paper**](https://www.ijcai.org/proceedings/2023/0195.pdf) [**Repo**](https://github.com/zzc-1998/MM-PCQA)
