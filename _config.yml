@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zicheng Zhang     (张子澄)"
+title                    : "Zicheng Zhang (张子澄)"
 description              : "PhD Candidate at Shanghai Jiaotong University."
 repository               : "zzc-1998/zzc-1998.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Zicheng Zhang (张子澄)"
+  name             : "Zicheng Zhang       (张子澄)"
   avatar           : "images/profile_zzc.jpg"
   bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai"
