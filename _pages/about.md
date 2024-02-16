@@ -10,8 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
--I am currently a PhD Candidate at Shanghai Jiao Tong University. My interests cover quality assessment and low-level vision.
--I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)
+- I am currently a PhD Candidate at Shanghai Jiao Tong University. My interests cover quality assessment and low-level vision.
+- I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)
 
 # 🔥 News
 - *2024.01*: &nbsp;⚡⚡ Q-Bench get accepted by ICLR2024 as a Spotlight paper!
