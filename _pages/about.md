@@ -34,7 +34,7 @@ Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision [
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='https://github.com/zzc-1998/MM-PCQA/blob/main/pics/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='https://github.com/zzc-1998/MM-PCQA/blob/main/pics/framework.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment [**Paper**](https://www.ijcai.org/proceedings/2023/0195.pdf) [**Repo**](https://github.com/zzc-1998/MM-PCQA)
