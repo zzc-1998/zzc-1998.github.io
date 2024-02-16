@@ -27,7 +27,7 @@ redirect_from:
 
 Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision 
 - Haoning Wu*, Zicheng Zhang*, Erli Zhang*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
-- [**Paper**](https://arxiv.org/abs/2309.14181) [**Repo**](https://github.com/Q-Future/Q-Bench)
+- [**[Paper]**](https://arxiv.org/abs/2309.14181) [**[Repo]**](https://github.com/Q-Future/Q-Bench)
 
 </div>
 </div>
@@ -40,7 +40,7 @@ Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision
 
 MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment 
 - **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Quan Zhou, Jun He, Qiyuan Wang, Guangtao Zhai
-- [**Paper**](https://www.ijcai.org/proceedings/2023/0195.pdf) [**Repo**](https://github.com/zzc-1998/MM-PCQA)
+- [**[Paper]**](https://www.ijcai.org/proceedings/2023/0195.pdf) [**[Repo]**](https://github.com/zzc-1998/MM-PCQA)
 
 </div>
 </div>
@@ -50,7 +50,7 @@ MM-PCQA: Multi-Modal Learning for No-reference Point Cloud Quality Assessment
 
 No-reference quality assessment for 3d colored point cloud and mesh models 
 - **Zicheng Zhang**, Wei Sun, Xiongkuo Min, Tao Wang, Wei Lu, Guangtao Zhai
-- [**Paper**](https://arxiv.org/pdf/2107.02041.pdf) [**Repo**](https://github.com/zzc-1998/NR-3DQA)
+- [**[Paper]**](https://arxiv.org/pdf/2107.02041.pdf) [**[Repo]**](https://github.com/zzc-1998/NR-3DQA)
 
 </div>
 </div>
@@ -61,7 +61,7 @@ No-reference quality assessment for 3d colored point cloud and mesh models
 
 Evaluating Point Cloud from Moving Camera Videos: A No-Reference Metric 
 - **Zicheng Zhang**, Wei Sun, Yucheng Zhu, Xiongkuo Min, Wei Wu, Ying Chen, Guangtao Zhai
-- [**Paper**](https://arxiv.org/abs/2208.14085) [**Repo**](https://github.com/zzc-1998/VQA_PC)
+- [**[Paper]**](https://arxiv.org/abs/2208.14085) [**[Repo]**](https://github.com/zzc-1998/VQA_PC)
 
 </div>
 </div>
@@ -71,7 +71,7 @@ Evaluating Point Cloud from Moving Camera Videos: A No-Reference Metric
 
 Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Images 
 - **Zicheng Zhang**, Wei Sun, Yingjie Zhou, Jun Jia, Zhichao Zhang, Jing Liu, Xiongkuo Min, Guangtao Zhai
-- [**Paper**](https://arxiv.org/abs/2303.08050) [**Repo**](https://github.com/zzc-1998/CGIQA6K)
+- [**[Paper]**](https://arxiv.org/abs/2303.08050) [**[Repo]**](https://github.com/zzc-1998/CGIQA6K)
 
 </div>
 </div>
@@ -81,7 +81,7 @@ Subjective and Objective Quality Assessment for in-the-Wild Computer Graphics Im
 
 GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessment 
 - **Zicheng Zhang**, Wei Sun, Houning Wu, Yingjie Zhou, Chunyi Li, Xiongkuo Min, Guangtao Zhai, Weisi Lin
-- [**Paper**](https://arxiv.org/abs/2306.05658) [**Repo**](https://github.com/zzc-1998/GMS-3DQA)
+- [**[Paper]**](https://arxiv.org/abs/2306.05658) [**[Repo]**](https://github.com/zzc-1998/GMS-3DQA)
 
 </div>
 </div>
@@ -91,7 +91,7 @@ GMS-3DQA: Projection-based Grid Mini-patch Sampling for 3D Model Quality Assessm
 
 MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos 
 - **Zicheng Zhang**, Wei Wu, Wei Sun, Dangyang Tu, Wei Lu, Xiongkuo Min, Ying Chen, Guangtao Zhai
-- [**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_MD-VQA_Multi-Dimensional_Quality_Assessment_for_UGC_Live_Videos_CVPR_2023_paper.pdf) [**Repo**](https://github.com/zzc-1998/MD-VQA)
+- [**[Paper]**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_MD-VQA_Multi-Dimensional_Quality_Assessment_for_UGC_Live_Videos_CVPR_2023_paper.pdf) [**[Repo]**](https://github.com/zzc-1998/MD-VQA)
 
 </div>
 </div>
@@ -101,7 +101,7 @@ MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos
 
 Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments 
 - **Zicheng Zhang**, Yingjie Zhou, Long Teng, Wei Sun, Chunyi Li, Xiongkuo Min, Xiao-Ping Zhang, Guangtao Zhai
-- [**Paper**](https://ieeexplore.ieee.org/abstract/document/10381636/) 
+- [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10381636/) 
 
 </div>
 </div>
