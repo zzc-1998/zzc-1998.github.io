@@ -22,7 +22,7 @@ redirect_from:
 ## Selected Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Spotlight)</div><img src='https://github.com/Q-Future/Q-Bench/raw/master/qbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Spotlight)</div><img src='https://github.com/zzc-1998/zzc-1998.github.io/blob/main/images/q-bench.jpg?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision 
