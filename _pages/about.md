@@ -19,7 +19,7 @@ redirect_from:
 - *2022.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Grand Challenge: Video Distortion Detection and Classification in the Context of Video Surveillance*
 
 
-## Selected Publications
+# Selected Publications
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Spotlight)</div><img src='https://github.com/zzc-1998/zzc-1998.github.io/blob/main/images/q-bench.jpg?raw=true' alt="sym" width="100%"></div></div>
