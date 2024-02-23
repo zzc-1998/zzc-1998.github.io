@@ -26,7 +26,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision 
-- Haoning Wu*, **Zicheng Zhang\***, Erli Zhang*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
+- Haoning Wu\*, **Zicheng Zhang\***, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
 - [**[Paper]**](https://arxiv.org/abs/2309.14181) [**[Repo]**](https://github.com/Q-Future/Q-Bench)
 
 </div>
