@@ -33,7 +33,7 @@ Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='https://github.com/Q-Future/Q-Instruct/blob/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='https://github.com/Q-Future/Q-Instruct/blob/main/new_q_instruct.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models 
