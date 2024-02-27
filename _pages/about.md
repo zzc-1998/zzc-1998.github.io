@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)
 
 # 🔥 News
+- *2024.01*: &nbsp;⚡⚡ Q-Instruct get accepted by CVPR 2024!
 - *2024.01*: &nbsp;⚡⚡ Q-Bench get accepted by ICLR2024 as a Spotlight paper!
 - *2023.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge*
 - *2022.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Grand Challenge: Video Distortion Detection and Classification in the Context of Video Surveillance*
@@ -28,6 +29,16 @@ redirect_from:
 Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision 
 - Haoning Wu\*, **Zicheng Zhang\***, Erli Zhang\*, Chaofeng Chen, Liang Liao, Annan Wang, Chunyi Li, Wenxiu Sun, Qiong Yan, Guangtao Zhai, Weisi Lin
 - [**[Paper]**](https://arxiv.org/abs/2309.14181) [**[Repo]**](https://github.com/Q-Future/Q-Bench)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 </div><img src='https://github.com/Q-Future/Q-Instruct/blob/main/new_q_instruct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models 
+- Haoning Wu\*, **Zicheng Zhang\***, Erli Zhang\*, Chaofeng Chen1, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Geng Xue, Wenxiu Sun, Qiong Yan, Weisi Lin
+- [**[Paper]**](https://arxiv.org/abs/2311.06783) [**[Repo]**](https://github.com/Q-Future/Q-Instruct)
 
 </div>
 </div>
