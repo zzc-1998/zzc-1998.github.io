@@ -14,6 +14,8 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)
 
 # 🔥 News
+- *2024.03*: &nbsp;⚡⚡ The **First Prize** of the *Short-form UGC Video Quality Assessment* for NTIRE2024-CVPRW 
+- *2024.02*: &nbsp;⚡⚡ Organizing the *Quality Assessment for AI-Generated Content - Track 1 Image/ Track 2 Video Challenge* for NTIRE2024-CVPRW 
 - *2024.01*: &nbsp;⚡⚡ Q-Instruct get accepted by CVPR 2024!
 - *2024.01*: &nbsp;⚡⚡ Q-Bench get accepted by ICLR2024 as a Spotlight paper!
 - *2023.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge*
