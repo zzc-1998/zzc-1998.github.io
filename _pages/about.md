@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)
 
 # 🔥 News
+- *2024.06*: &nbsp;⚡⚡ Two papers have been accepted by ICIP 2024
 - *2024.05*: &nbsp;⚡⚡ Get the NSFC fund for PhD students (荣获博士生国自然基金)
 - *2024.04*: &nbsp;⚡⚡ Two papers (one oral) have been accepted by ICME 2024
 - *2024.03*: &nbsp;⚡⚡ The **First Prize** of the *Short-form UGC Video Quality Assessment* for NTIRE2024-CVPRW 
