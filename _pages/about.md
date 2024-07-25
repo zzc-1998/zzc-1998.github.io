@@ -11,9 +11,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 - I am currently a PhD Candidate at Shanghai Jiao Tong University. My interests cover quality assessment and low-level vision.
-- I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future)
+- I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
+- *2024.07*: &nbsp;⚡⚡ Seven papers (five oral) have been accepted by ACM MM 2024
 - *2024.06*: &nbsp;⚡⚡ Two papers have been accepted by ICIP 2024
 - *2024.05*: &nbsp;⚡⚡ Get the NSFC fund for PhD students (荣获博士生国自然基金)
 - *2024.04*: &nbsp;⚡⚡ Two papers (one oral) have been accepted by ICME 2024
@@ -43,12 +44,32 @@ Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-Level Vision
 
 Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models 
 - Haoning Wu\*, **Zicheng Zhang\***, Erli Zhang\*, Chaofeng Chen1, Liang Liao, Annan Wang, Kaixin Xu, Chunyi Li, Jingwen Hou, Guangtao Zhai, Geng Xue, Wenxiu Sun, Qiong Yan, Weisi Lin
-- [**[Paper]**](https://arxiv.org/abs/2311.06783) [**[Repo]**](https://github.com/Q-Future/Q-Instruct)
+- [**[Paper]**](https://arxiv.org/abs/2312.17090) [**[Repo]**](https://github.com/Q-Future/Q-Instruct)
 
 </div>
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 </div><img src='https://github.com/Q-Future/Q-Align/blob/main/fig/q-align-syllabus.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels
+- Haoning Wu\*, **Zicheng Zhang\***, Weixia Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Yixuan Gao, Annan Wang, Erli Zhang, Wenxiu Sun, Qiong Yan, Xiongkuo Min, Guangtao Zhai, Weisi Lin
+- [**[Paper]**](https://arxiv.org/abs/2311.06783) [**[Repo]**](https://github.com/Q-Future/Q-Align)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024 (Oral)</div><img src='https://github.com/Q-Future/LMM-PCQA/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM
+- **Zicheng Zhang**, Haoning Wu, Yingjie Zhou, Chunyi Li, Wei Sun, Chaofeng Chen, Xiongkuo Min, Xiaohong Liu, Weisi Lin, Guangtao Zhai
+- [**[Paper]**](https://arxiv.org/abs/2404.18203) [**[Repo]**](https://github.com/Q-Future/LMM-PCQA)
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='https://github.com/zzc-1998/MM-PCQA/blob/main/pics/framework.png?raw=true' alt="sym" width="100%"></div></div>
