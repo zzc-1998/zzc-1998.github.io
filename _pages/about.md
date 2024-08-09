@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
+- *2024.08*: &nbsp;⚡⚡ Q-Bench+ has been accepted by IEEE TPAMI
 - *2024.07*: &nbsp;⚡⚡ Seven papers (five oral) have been accepted by ACM MM 2024
 - *2024.06*: &nbsp;⚡⚡ Two papers have been accepted by ICIP 2024
 - *2024.05*: &nbsp;⚡⚡ Get the NSFC fund for PhD students (荣获博士生国自然基金)
@@ -27,6 +28,16 @@ redirect_from:
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='https://github.com/zzc-1998/zzc-1998.github.io/blob/main/images/qbench+.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from Single Images to Pairs 
+- **Zicheng Zhang\***, Haoning Wu\*, Erli Zhang, Guangtao Zhai, Weisi Lin
+- [**[Paper]**](https://arxiv.org/pdf/2402.07116) [**[Repo]**](https://github.com/Q-Future/Q-Bench)
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024 (Spotlight)</div><img src='https://github.com/zzc-1998/zzc-1998.github.io/blob/main/images/q-bench.jpg?raw=true' alt="sym" width="100%"></div></div>
