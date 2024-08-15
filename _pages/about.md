@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
+- *2024.08*: &nbsp;⚡⚡ Co-Instruct is accepted by ECCV 2024 as oral
 - *2024.08*: &nbsp;⚡⚡ Q-Bench+ has been accepted by IEEE TPAMI
 - *2024.07*: &nbsp;⚡⚡ Seven papers (five oral) have been accepted by ACM MM 2024
 - *2024.06*: &nbsp;⚡⚡ Two papers have been accepted by ICIP 2024
@@ -150,6 +151,16 @@ MD-VQA: Multi-Dimensional Quality Assessment for UGC Live Videos
 Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments 
 - **Zicheng Zhang**, Yingjie Zhou, Long Teng, Wei Sun, Chunyi Li, Xiongkuo Min, Xiao-Ping Zhang, Guangtao Zhai
 - [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10381636/) 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV Oral</div><img src='https://github.com/Q-Future/Co-Instruct/blob/main/teaser.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments 
+- Haoning Wu\*, Hanwei Zhu\*, **Zicheng Zhang\***, Erli Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Annan Wang, Wenxiu Sun, Qiong Yan, Xiaohong Liu, Guangtao Zhai, Shiqi Wang, Weisi Lin
+- [**[Paper]**](https://arxiv.org/pdf/2402.16641)  [**[Repo]**](https://github.com/Q-Future/Co-Instruct)
 
 </div>
 </div>
