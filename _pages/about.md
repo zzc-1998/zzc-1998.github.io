@@ -158,7 +158,7 @@ Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV Oral</div><img src='https://github.com/Q-Future/Co-Instruct/blob/main/teaser.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Quality-of-Experience Evaluation for Digital Twins in 6G Network Environments 
+Towards Open-ended Visual Quality Comparison 
 - Haoning Wu\*, Hanwei Zhu\*, **Zicheng Zhang\***, Erli Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Annan Wang, Wenxiu Sun, Qiong Yan, Xiaohong Liu, Guangtao Zhai, Shiqi Wang, Weisi Lin
 - [**[Paper]**](https://arxiv.org/pdf/2402.16641)  [**[Repo]**](https://github.com/Q-Future/Co-Instruct)
 
