@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
+- *2024.10*: &nbsp;⚡⚡ Two papers (both are **spotlight**) are accepted by NIPS 2024. 
 - *2024.08*: &nbsp;⚡⚡ The **First Prize** of ECCV AIM 2024 UHD-IQA Challenge: Pushing the Boundaries of Blind Photo Quality Assessment.
 - *2024.08*: &nbsp;⚡⚡ Co-Instruct is accepted by ECCV 2024 as oral
 - *2024.08*: &nbsp;⚡⚡ Q-Bench+ has been accepted by IEEE TPAMI
