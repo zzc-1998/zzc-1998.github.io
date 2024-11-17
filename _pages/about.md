@@ -46,7 +46,7 @@ Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Best Paper Nomination</div><img src='https://github.com/Q-Future/LMM-PCQA/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MM-PCQA: Assisting Point Cloud Quality Assessment with LMM
+LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM
 - **Zicheng Zhang**, Haoning Wu, Yingjie Zhou, Chunyi Li, Wei Sun, Chaofeng Chen, Xiongkuo Min, Xiaohong Liu, Weisi Lin, Guangtao Zhai
 - [**[Paper]**](https://arxiv.org/abs/2404.18203) [**[Repo]**](https://github.com/Q-Future/LMM-PCQA)
 
@@ -81,17 +81,6 @@ Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation M
 Q-Align: Teaching LMMs for Visual Scoring via Discrete Text-Defined Levels
 - Haoning Wu\*, **Zicheng Zhang\***, Weixia Zhang, Chaofeng Chen, Liang Liao, Chunyi Li, Yixuan Gao, Annan Wang, Erli Zhang, Wenxiu Sun, Qiong Yan, Xiongkuo Min, Guangtao Zhai, Weisi Lin
 - [**[Paper]**](https://arxiv.org/abs/2311.06783) [**[Repo]**](https://github.com/Q-Future/Q-Align)
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024 (Oral)</div><img src='https://github.com/Q-Future/LMM-PCQA/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM
-- **Zicheng Zhang**, Haoning Wu, Yingjie Zhou, Chunyi Li, Wei Sun, Chaofeng Chen, Xiongkuo Min, Xiaohong Liu, Weisi Lin, Guangtao Zhai
-- [**[Paper]**](https://arxiv.org/abs/2404.18203) [**[Repo]**](https://github.com/Q-Future/LMM-PCQA)
 
 </div>
 </div>
