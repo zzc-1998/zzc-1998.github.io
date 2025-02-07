@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
+- *2025.01*: &nbsp;⚡⚡ **A-Bench** has been accepted by ICLR 2025. 
 - *2024.10*: &nbsp;⚡⚡ **LMM-PCQA** (First Author) has received the [**Best Paper Nomination**](https://2024.acmmm.org/best-paper) in ACM MM 2024. 
 - *2024.10*: &nbsp;⚡⚡ Two papers (both are **spotlight**) are accepted by NIPS 2024. 
 - *2024.08*: &nbsp;⚡⚡ The **First Prize** of ECCV AIM 2024 UHD-IQA Challenge: Pushing the Boundaries of Blind Photo Quality Assessment.
@@ -49,6 +50,16 @@ Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from
 LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM
 - **Zicheng Zhang**, Haoning Wu, Yingjie Zhou, Chunyi Li, Wei Sun, Chaofeng Chen, Xiongkuo Min, Xiaohong Liu, Weisi Lin, Guangtao Zhai
 - [**[Paper]**](https://arxiv.org/abs/2404.18203) [**[Repo]**](https://github.com/Q-Future/LMM-PCQA)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='https://github.com/Q-Future/A-Bench/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A-Bench: Are LMMs Masters at Evaluating AI-generated Images?
+- **Zicheng Zhang**, Haoning Wu, Chunyi Li, Yingjie Zhou, Wei Sun, Xiongkuo Min, Zijian Chen, Xiaohong Liu, Weisi Lin, Guangtao Zhai
+- [**[Paper]**](https://arxiv.org/abs/2404.18203) [**[Repo]**](https://github.com/Q-Future/A-Bench)
 
 </div>
 </div>
