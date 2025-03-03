@@ -14,7 +14,9 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
-- *2025.01*: &nbsp;⚡⚡ **A-Bench** has been accepted by ICLR 2025. 
+- *2025.02*: &nbsp;⚡⚡ Four papers (First author of Q-Eval \& Q-Bench-Video) have been accepted by CVPR 2025.
+- *2025.01*: &nbsp;⚡⚡ **A-Bench** has been accepted by ICLR 2025.
+- *2025.01*: &nbsp;⚡⚡ Get the Young Elite Scientists Sponsorship Program by CAST (中国科协青年人才托举工程博士生专项计划)
 - *2024.10*: &nbsp;⚡⚡ **LMM-PCQA** (First Author) has received the [**Best Paper Nomination**](https://2024.acmmm.org/best-paper) in ACM MM 2024. 
 - *2024.10*: &nbsp;⚡⚡ Two papers (both are **spotlight**) are accepted by NIPS 2024. 
 - *2024.08*: &nbsp;⚡⚡ The **First Prize** of ECCV AIM 2024 UHD-IQA Challenge: Pushing the Boundaries of Blind Photo Quality Assessment.
