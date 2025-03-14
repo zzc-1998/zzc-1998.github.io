@@ -14,7 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
-- *2025.02*: &nbsp;⚡⚡ Four papers (First author of Q-Eval \& Q-Bench-Video) have been accepted by CVPR 2025.
+- *2025.02*: &nbsp;⚡⚡ Four papers (First author of Q-Eval & Q-Bench-Video) have been accepted by CVPR 2025.
 - *2025.01*: &nbsp;⚡⚡ **A-Bench** has been accepted by ICLR 2025.
 - *2025.01*: &nbsp;⚡⚡ Get the Young Elite Scientists Sponsorship Program by CAST (中国科协青年人才托举工程博士生专项计划)
 - *2024.10*: &nbsp;⚡⚡ **LMM-PCQA** (First Author) has received the [**Best Paper Nomination**](https://2024.acmmm.org/best-paper) in ACM MM 2024. 
@@ -45,6 +45,29 @@ Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='https://github.com/Q-Future/Q-Bench-Video/raw/main/dataset_statistics.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs
+- Zicheng Zhang, Ziheng Jia, Haoning Wu, Chunyi Li, Zijian Chen, Yingjie Zhou, Wei Sun, Xiaohong Liu, Xiongkuo Min, Weisi Lin, Guangtao Zhai
+- [**[Paper]**](https://arxiv.org/abs/2409.20063) [**[Repo]**](https://github.com/Q-Future/Q-Bench-Video)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-SiT/raw/main/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Teaching LMMs for Image Quality Scoring and Interpreting
+- Zicheng Zhang, Haoning Wu, Ziheng Jia, Weisi Lin, Guangtao Zhai 
+- [**[Paper]**](https://arxiv.org/abs/2503.09197) [**[Repo]**](https://github.com/Q-Future/Q-SiT)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Best Paper Nomination</div><img src='https://github.com/Q-Future/LMM-PCQA/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
