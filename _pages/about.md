@@ -61,13 +61,22 @@ Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-SiT/raw/main/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Teaching LMMs for Image Quality Scoring and Interpreting
+Q-SiT: Teaching LMMs for Image Quality Scoring and Interpreting
 - Zicheng Zhang, Haoning Wu, Ziheng Jia, Weisi Lin, Guangtao Zhai 
 - [**[Paper]**](https://arxiv.org/abs/2503.09197) [**[Repo]**](https://github.com/Q-Future/Q-SiT)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='https://github.com/zzc-1998/Q-Eval/raw/main/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content
+- Zicheng Zhang, Tengchuan Kou, Shushi Wang, Chunyi Li, Wei Sun, Wei Wang, Xiaoyu Li, Zongyu Wang, Xuezhi Cao, Xiongkuo Min, Xiaohong Liu, Guangtao Zhai
+- [**[Paper]**](https://arxiv.org/abs/2503.02357) [**[Repo]**](https://github.com/zzc-1998/Q-Eval)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Best Paper Nomination</div><img src='https://github.com/Q-Future/LMM-PCQA/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
