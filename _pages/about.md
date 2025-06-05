@@ -14,7 +14,8 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
-- *2025.02*: &nbsp;⚡⚡ Four papers (First author of Q-Eval & Q-Bench-Video) have been accepted by CVPR 2025.
+- *2025.04*: &nbsp;⚡⚡ Two papers (First author of MLLM Benchmark Redundancy Principle) have been accepted by ACL Main Track 2025.
+- *2025.02*: &nbsp;⚡⚡ Four papers (First author of Q-Eval [Oral] & Q-Bench-Video) have been accepted by CVPR 2025.
 - *2025.01*: &nbsp;⚡⚡ **A-Bench** has been accepted by ICLR 2025.
 - *2025.01*: &nbsp;⚡⚡ Get the Young Elite Scientists Sponsorship Program by CAST (中国科协青年人才托举工程博士生专项计划)
 - *2024.10*: &nbsp;⚡⚡ **LMM-PCQA** (First Author) has received the [**Best Paper Nomination**](https://2024.acmmm.org/best-paper) in ACM MM 2024. 
@@ -47,6 +48,17 @@ Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='https://github.com/zzc-1998/Benchmark-Redundancy/blob/main/ceaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Redundancy Principles for MLLMs Benchmarks
+- Zicheng Zhang, Xiangyu Zhao, Xinyu Fang, Chunyi Li, Xiaohong Liu, Xiongkuo Min2, Haodong Duan1#, Kai Chen1#, Guangtao Zhai
+- [**[Paper]**](https://arxiv.org/abs/2501.13953) [**[Repo]**](https://github.com/zzc-1998/Benchmark-Redundancy)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='https://github.com/Q-Future/Q-Bench-Video/raw/main/dataset_statistics.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +80,7 @@ Q-SiT: Teaching LMMs for Image Quality Scoring and Interpreting
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='https://github.com/zzc-1998/Q-Eval/raw/main/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Oral</div><img src='https://github.com/zzc-1998/Q-Eval/raw/main/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Content
