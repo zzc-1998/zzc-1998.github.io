@@ -48,7 +48,7 @@ Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='https://github.com/zzc-1998/Benchmark-Redundancy/blob/main/ceaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='https://github.com/zzc-1998/Benchmark-Redundancy/blob/main/ceaser.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Redundancy Principles for MLLMs Benchmarks
