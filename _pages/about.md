@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
 
 # 🔥 News
+- *2025.07*: &nbsp;⚡⚡ Three papers have been accepted by ACM MM 2025.
 - *2025.04*: &nbsp;⚡⚡ Two papers (First author of MLLM Benchmark Redundancy Principle) have been accepted by ACL Main Track 2025.
 - *2025.02*: &nbsp;⚡⚡ Four papers (First author of Q-Eval [Oral] & Q-Bench-Video) have been accepted by CVPR 2025.
 - *2025.01*: &nbsp;⚡⚡ **A-Bench** has been accepted by ICLR 2025.
