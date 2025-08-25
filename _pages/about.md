@@ -10,8 +10,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-- I am currently a PhD Candidate at Shanghai Jiao Tong University. My interests cover quality assessment and low-level vision.
-- I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder)
+- I am currently a Research Fellow at Shanghai AI Lab. My interests cover low-level vision and LMM evaluation.
+- I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder) and [**AIBench**](https://aiben.ch)
 
 # 🔥 News
 - *2025.07*: &nbsp;⚡⚡ Three papers have been accepted by ACM MM 2025.
@@ -228,13 +228,9 @@ Towards Open-ended Visual Quality Comparison
 
 # 📖 Educations
 
-
-- *2020.09 - Now*, PhD Student, [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/), Shanghai Jiao Tong University, supervised by [Prof. Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ&hl=en). Research topics: Quality Assessment and Low-level Vision.
+- *2020.09 - 2025.09*, PhD Student, [SJTU Multimedia Lab](https://multimedia.sjtu.edu.cn/), Shanghai Jiao Tong University, supervised by [Prof. Guangtao Zhai](https://scholar.google.ca/citations?user=E6zbSYgAAAAJ&hl=en). Research topics: Low-level Vision & LMM Evaluation.
 - *2016.09 - 2020.06*, B.S. in Information Science, SEIEE, Shanghai Jiao Tong University. 
 
 
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Bilibili, Shanghai, China.
-- *2020.09 - 2021.03*, Huawei, Shanghai, China.
 
