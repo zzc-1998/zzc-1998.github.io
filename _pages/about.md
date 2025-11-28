@@ -14,6 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder) and [**AIBench**](https://aiben.ch)
 
 # 🔥 News
+- *2025.11*: &nbsp;⚡⚡ **Large Multimodal Models Evaluation: A Survey** has been accepted by SCIS.
 - *2025.07*: &nbsp;⚡⚡ Five papers have been accepted by ACM MM 2025.
 - *2025.07*: &nbsp;⚡⚡ Three papers have been accepted by ICCV 2025.
 - *2025.04*: &nbsp;⚡⚡ Two papers (First author of MLLM Benchmark Redundancy Principle) have been accepted by ACL Main Track 2025.
@@ -48,6 +49,18 @@ Q-Bench+: A Benchmark for Multi-modal Foundation Models on Low-level Vision from
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIS</div><img src='https://github.com/aiben-ch/LMM-Evaluation-Survey/blob/main/overview.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Large Multimodal Models Evaluation: A Survey
+- AIBench Team
+- [**[Paper]**](https://www.sciengine.com/SCIS/doi/10.1007/s11432-025-4676-4) [**[Repo]**](https://github.com/aiben-ch/LMM-Evaluation-Survey)
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='https://github.com/zzc-1998/Benchmark-Redundancy/blob/main/ceaser.png?raw=true' alt="sym" width="100%"></div></div>
