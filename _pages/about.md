@@ -14,7 +14,7 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder) and [**AIBench**](https://aiben.ch)
 
 # 🔥 News
-- *2026.03*: &nbsp;⚡⚡ Serve as ACM MM 2026 Area Chair.
+- *2026.03*: &nbsp;⚡⚡ Serve as ACM MM 2026 Area Chair & Guest Editor for Displays.
 - *2026.02*: &nbsp;⚡⚡ Four papers have been accepted by CVPR 2026.
 - *2025.12*: &nbsp;⚡⚡ Serve as ICME 2026 Area Chair.
 - *2025.11*: &nbsp;⚡⚡ **Large Multimodal Models Evaluation: A Survey** has been accepted by SCIS.
