@@ -14,10 +14,17 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder) and [**AIBench**](https://aiben.ch)
 
 # 🔥 News
+- *2026*: &nbsp;⚡⚡ **Q-Eval+** is published in IEEE TPAMI.
+- *2026.09*: &nbsp;⚡⚡ One paper was presented at ECCV 2026.
+- *2026.09*: &nbsp;⚡⚡ **Q-SiT** is published online in IEEE TPAMI.
 - *2026.03*: &nbsp;⚡⚡ Three papers have been accepted by ICML 2026.
 - *2026.03*: &nbsp;⚡⚡ Serve as ACM MM 2026 Area Chair & Guest Editor for Displays.
 - *2026.02*: &nbsp;⚡⚡ Four papers have been accepted by CVPR 2026.
 - *2025.12*: &nbsp;⚡⚡ Serve as ICME 2026 Area Chair.
+
+<details class="homepage-fold" markdown="1">
+<summary>More news</summary>
+
 - *2025.11*: &nbsp;⚡⚡ **Large Multimodal Models Evaluation: A Survey** has been accepted by SCIS.
 - *2025.07*: &nbsp;⚡⚡ Five papers have been accepted by ACM MM 2025.
 - *2025.07*: &nbsp;⚡⚡ Three papers have been accepted by ICCV 2025.
@@ -41,8 +48,19 @@ redirect_from:
 - *2023.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge*
 - *2022.04*: &nbsp;⚡⚡ The **First Prize** of the *IEEE ICIP Grand Challenge: Video Distortion Detection and Classification in the Context of Video Surveillance*
 
+</details>
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='https://github.com/Q-Future/Q-SiT/raw/main/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Q-SiT: Teaching LMMs for Image Quality Scoring and Interpreting
+- **Zicheng Zhang**, Haoning Wu, Ziheng Jia, Weisi Lin, Guangtao Zhai
+- [**[Paper]**](https://doi.org/10.1109/TPAMI.2026.3734506) [**[Repo]**](https://github.com/Q-Future/Q-SiT)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='https://github.com/zzc-1998/zzc-1998.github.io/blob/main/images/qbench+.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,16 +107,6 @@ Q-Bench-Video: Benchmarking the Video Quality Understanding of LMMs
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='https://github.com/Q-Future/Q-SiT/raw/main/framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Q-SiT: Teaching LMMs for Image Quality Scoring and Interpreting
-- Zicheng Zhang, Haoning Wu, Ziheng Jia, Weisi Lin, Guangtao Zhai 
-- [**[Paper]**](https://arxiv.org/abs/2503.09197) [**[Repo]**](https://github.com/Q-Future/Q-SiT)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025 Oral</div><img src='https://github.com/zzc-1998/Q-Eval/raw/main/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -108,6 +116,9 @@ Q-Eval-100K: Evaluating Visual Quality and Alignment Level for Text-to-Vision Co
 
 </div>
 </div>
+
+<details class="homepage-fold" markdown="1">
+<summary>More selected publications</summary>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM Best Paper Nomination</div><img src='https://github.com/Q-Future/LMM-PCQA/blob/main/spotlight.png?raw=true' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -124,7 +135,7 @@ LMM-PCQA: Assisting Point Cloud Quality Assessment with LMM
 
 A-Bench: Are LMMs Masters at Evaluating AI-generated Images?
 - **Zicheng Zhang**, Haoning Wu, Chunyi Li, Yingjie Zhou, Wei Sun, Xiongkuo Min, Zijian Chen, Xiaohong Liu, Weisi Lin, Guangtao Zhai
-- [**[Paper]**](https://arxiv.org/abs/2404.18203) [**[Repo]**](https://github.com/Q-Future/A-Bench)
+- [**[Paper]**](https://arxiv.org/abs/2406.03070) [**[Repo]**](https://github.com/Q-Future/A-Bench)
 
 </div>
 </div>
@@ -243,6 +254,8 @@ Towards Open-ended Visual Quality Comparison
 </div>
 </div>
 
+
+</details>
 
 # 📖 Educations
 
