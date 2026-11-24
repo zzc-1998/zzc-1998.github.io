@@ -14,16 +14,13 @@ redirect_from:
 - I am working on project [**Q-Future**: Visual Evaluation with Foundation Models](https://github.com/Q-Future) (co-founder) and [**AIBench**](https://aiben.ch)
 
 # 🔥 News
-- *2026*: &nbsp;⚡⚡ **Q-Eval+** is published in IEEE TPAMI.
+- *2026.11*: &nbsp;⚡⚡ **Q-Eval+** is published online in IEEE TPAMI.
 - *2026.09*: &nbsp;⚡⚡ One paper was presented at ECCV 2026.
 - *2026.09*: &nbsp;⚡⚡ **Q-SiT** is published online in IEEE TPAMI.
 - *2026.03*: &nbsp;⚡⚡ Three papers have been accepted by ICML 2026.
 - *2026.03*: &nbsp;⚡⚡ Serve as ACM MM 2026 Area Chair & Guest Editor for Displays.
 - *2026.02*: &nbsp;⚡⚡ Four papers have been accepted by CVPR 2026.
 - *2025.12*: &nbsp;⚡⚡ Serve as ICME 2026 Area Chair.
-
-<details class="homepage-fold" markdown="1">
-<summary>More news</summary>
 
 - *2025.11*: &nbsp;⚡⚡ **Large Multimodal Models Evaluation: A Survey** has been accepted by SCIS.
 - *2025.07*: &nbsp;⚡⚡ Five papers have been accepted by ACM MM 2025.
@@ -36,6 +33,10 @@ redirect_from:
 - *2024.10*: &nbsp;⚡⚡ Two papers (both are **spotlight**) are accepted by NIPS 2024. 
 - *2024.08*: &nbsp;⚡⚡ The **First Prize** of ECCV AIM 2024 UHD-IQA Challenge: Pushing the Boundaries of Blind Photo Quality Assessment.
 - *2024.08*: &nbsp;⚡⚡ Co-Instruct is accepted by ECCV 2024 as oral
+
+<details class="homepage-fold" markdown="1">
+<summary>More news</summary>
+
 - *2024.08*: &nbsp;⚡⚡ Q-Bench+ has been accepted by IEEE TPAMI
 - *2024.07*: &nbsp;⚡⚡ Seven papers (five oral) have been accepted by ACM MM 2024
 - *2024.06*: &nbsp;⚡⚡ Two papers have been accepted by ICIP 2024
